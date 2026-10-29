@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Plexamp Free Installer** — Plexamp is Plex's dedicated music player offering a audiophile-grade experience for your personal Plex music library. Works without internet access, no account required. Full offline installation.
+**💻 Plexamp Free Installer** — Plexamp is the dedicated music player application for Plex users, providing a beautiful interface for streaming your personal Plex music library. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Plexamp
 
-Plexamp is Plex's dedicated music player offering a audiophile-grade experience for your personal Plex music library. It features gapless playback, loudness leveling, offline sync, sonic analysis radio, a beautiful waveform scrubber, and high-res audio support.
+Plexamp is the dedicated music player application for Plex users, providing a beautiful interface for streaming your personal Plex music library. Features include Sonic Analysis for automatic mix generation, loudness leveling, gapless playback, offline sync, and offline radio. Plexamp works on Windows, macOS, Linux, iOS, and Android, giving Plex music subscribers the best interface for their self-hosted music collections.
 
 ---
 
 ## ❌ Problem: Plexamp is hard to access
 
-- **Plex Server Required** — Requires a Plex Media Server with your music library configured
-- **Plex Pass Required** — Full Plexamp features require an active Plex Pass subscription
-- **Setup Complexity** — Setting up a Plex server requires technical knowledge
-- **Internet Dependency** — Remote streaming requires reliable internet connection
+- **Plex Dependency** — Requires Plex Media Server with music library
+- **Subscription Required** — Plexamp requires Plex Pass subscription for full features
+- **Self-Hosted Complexity** — Setting up Plex Media Server requires technical knowledge
+- **No Free Streaming** — Does not work with external music services; personal library only
 
 ---
 
@@ -121,7 +121,7 @@ Plexamp is Plex's dedicated music player offering a audiophile-grade experience 
 
 ---
 
-**Plexamp Free Installer** — Plexamp is Plex's dedicated music player offering a audiophile-grade experience for your personal Plex music library. Install without internet connection today!
+**Plexamp Free Installer** — Plexamp is the dedicated music player application for Plex users, providing a beautiful interface for streaming your personal Plex music library. Install without internet connection today!
 
 <div align="center">
 
